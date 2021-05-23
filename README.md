@@ -1,6 +1,6 @@
-# personal_card
+# Personal Info Card
 
-A basic personal card.
+A basic personal card app.
 
 ## Getting Started
 
