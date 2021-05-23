@@ -1,5 +1,7 @@
 # Personal Info Card
 
+<img align="right" src="preview.jpg" height="400">
+
 A basic personal card app.
 
 ## Getting Started
